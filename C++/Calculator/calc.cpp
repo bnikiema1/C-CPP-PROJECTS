@@ -14,6 +14,7 @@ int main()
     {   
         char operatorSign; //declaring variables
         double x, y;
+        
         string a, b;
 
         system("cls"); // clearing the console and printing the menu
